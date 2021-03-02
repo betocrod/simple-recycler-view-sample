@@ -13,6 +13,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         android:textSize="24sp"
+        android:textColor="@color/teal_700"
         android:layout_margin="16dp"
         tools:text="1."/>
 
@@ -26,7 +27,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:textSize="24sp"
         android:layout_margin="16dp"
-        android:textColor="@color/teal_700"
+        android:textColor="@color/teal_200"
         tools:text="Nolberto Castellanos Rodríguez"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
